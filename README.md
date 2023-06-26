@@ -46,7 +46,3 @@ Para executar o aplicativo de chat, siga as etapas abaixo:
 - Certifique-se de executar o servidor antes de iniciar o cliente, caso contrário, o cliente não poderá se conectar.
 - O aplicativo de chat implementado aqui é um exemplo simples e não possui recursos avançados de segurança, autenticação ou criptografia. É apenas uma demonstração de como a comunicação cliente-servidor pode ser estabelecida usando sockets em Java.
 - Você pode executar várias instâncias do cliente em diferentes terminais ou em diferentes máquinas na mesma rede para testar a comunicação entre vários clientes.
-
-Espero que isso esclareça o funcionamento do aplicativo de chat multithread em Java! Se você tiver mais alg
-
-uma dúvida, sinta-se à vontade para perguntar.
